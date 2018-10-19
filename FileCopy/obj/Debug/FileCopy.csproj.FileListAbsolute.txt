@@ -1,0 +1,10 @@
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.Properties.Resources.resources
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.CoreCompileInputs.cache
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.pdb
+C:\Users\siddsing\source\repos\FileCopy\FileCopy\obj\Debug\FileCopy.FileGenerator.resources
